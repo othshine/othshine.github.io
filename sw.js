@@ -4,6 +4,7 @@ const assets = [
   '/index.html',
   '/js/app.js',
   '/img/dish.png',
+  'chat.php',
   '/manifest.json'
 ];
 
